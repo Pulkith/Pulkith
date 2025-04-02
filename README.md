@@ -1,4 +1,11 @@
 ## Hey
+
+<h1 style="text-align: center;">
+  <a href="https://git.io/typing-svg" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=35&duration=3000&pause=500&multiline=true&width=650&height=140&lines=%24+whoami;Pulkith" alt="Pulkith" />
+  </a>
+</h1>
+
 ![](https://komarev.com/ghpvc/?username=pulkith&base=12040)
 <!--
 **Pulkith/Pulkith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
